@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  copycenter.webui:
+    image: ${DOCKER_REGISTRY-}copycenterwebui
+    build:
+      context: .
+      dockerfile: CopyCenter.WebUI/Dockerfile

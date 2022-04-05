@@ -1,0 +1,260 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CopyCenter.WebUI
+build_property.RootNamespace = CopyCenter.WebUI
+build_property.ProjectDir = D:\KSI\Projects\CopyCenter\CopyCenter.WebUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\KSI\Projects\CopyCenter\CopyCenter.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Aside/_Base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxBc2lkZVxfQmFzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Aside/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxBc2lkZVxfTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Header/_Base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxIZWFkZXJcX0Jhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Header/_Mega-Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxIZWFkZXJcX01lZ2EtTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Header/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxIZWFkZXJcX01lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Header/_Topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxIZWFkZXJcX1RvcGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Page-Title/_Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxQYWdlLVRpdGxlXF9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/Toolbars/_Toolbar-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxUb29sYmFyc1xfVG9vbGJhci0xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/_Content.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxfQ29udGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Layout/_Master.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxfTWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Drawers/_Activity-Drawer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXERyYXdlcnNcX0FjdGl2aXR5LURyYXdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Engage/Demos/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEVuZ2FnZVxEZW1vc1xfTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Engage/Demos/_Toggle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEVuZ2FnZVxEZW1vc1xfVG9nZ2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Engage/Help/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEVuZ2FnZVxIZWxwXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Engage/Help/_Toggle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEVuZ2FnZVxIZWxwXF9Ub2dnbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Engage/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEVuZ2FnZVxfTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/General/_Notice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXEdlbmVyYWxcX05vdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Menus/_Menu-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NZW51LTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Menus/_Menu-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NZW51LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Menus/_Menu-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NZW51LTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Menus/_Notifications-Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9Ob3RpZmljYXRpb25zLU1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Menus/_Quick-Links-Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9RdWljay1MaW5rcy1NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Menus/_User-Account-Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9Vc2VyLUFjY291bnQtTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/Create-App/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGUtQXBwXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/New-Card/_Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xOZXctQ2FyZFxfRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/Users-Search/Partials/_Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vycy1TZWFyY2hcUGFydGlhbHNcX0VtcHR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/Users-Search/Partials/_Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vycy1TZWFyY2hcUGFydGlhbHNcX1Jlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/Users-Search/Partials/_Suggestions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vycy1TZWFyY2hcUGFydGlhbHNcX1N1Z2dlc3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/Users-Search/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vycy1TZWFyY2hcX01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/_Invite-Friends.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xfSW52aXRlLUZyaWVuZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Modals/_Upgrade-Plan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xfVXBncmFkZS1QbGFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/Partials/_Advanced-Options.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxQYXJ0aWFsc1xfQWR2YW5jZWQtT3B0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/Partials/_Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxQYXJ0aWFsc1xfRW1wdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/Partials/_Form-Dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxQYXJ0aWFsc1xfRm9ybS1Ecm9wZG93bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/Partials/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxQYXJ0aWFsc1xfTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/Partials/_Preferences.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxQYXJ0aWFsc1xfUHJlZmVyZW5jZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/Partials/_Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxQYXJ0aWFsc1xfUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Search/_Dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNlYXJjaFxfRHJvcGRvd24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Theme-mode/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFRoZW1lLW1vZGVcX01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Theme-mode/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFRoZW1lLW1vZGVcX01lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Calendar/_Widget-1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxDYWxlbmRhclxfV2lkZ2V0LTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Lists/_Widget-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxMaXN0c1xfV2lkZ2V0LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Lists/_Widget-3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxMaXN0c1xfV2lkZ2V0LTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Lists/_Widget-4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxMaXN0c1xfV2lkZ2V0LTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Lists/_Widget-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxMaXN0c1xfV2lkZ2V0LTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Lists/_Widget-6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxMaXN0c1xfV2lkZ2V0LTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Mixed/_Widget-10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxNaXhlZFxfV2lkZ2V0LTEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Mixed/_Widget-2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxNaXhlZFxfV2lkZ2V0LTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Mixed/_Widget-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxNaXhlZFxfV2lkZ2V0LTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Mixed/_Widget-7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxNaXhlZFxfV2lkZ2V0LTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Tables/_Widget-5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxUYWJsZXNcX1dpZGdldC01LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/Widgets-2/Tables/_Widget-9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFdpZGdldHMtMlxUYWJsZXNcX1dpZGdldC05LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/Partials/_Scrolltop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9TY3JvbGx0b3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KSI/Projects/CopyCenter/CopyCenter.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3a7uzhynbv
